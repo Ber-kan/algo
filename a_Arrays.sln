@@ -1,0 +1,41 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "w1", "w1", "{58EC5D03-26E6-427E-BD8B-12C1C254E9A6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "a_Arrays", "w1\a_Arrays\a_Arrays.csproj", "{0F9215D6-DE44-4060-8D24-84D149B9ED7D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "b_MultiDimensional_Jagged_Arrays", "w1\b_MultiDimensional_Jagged_Arrays\b_MultiDimensional_Jagged_Arrays.csproj", "{C5A191C3-FA98-435A-9A0C-CA94C1BBDEEF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2_Search_Algorithms", "w1\2_Search_Algorithms\2_Search_Algorithms.csproj", "{3E4F5081-0FC9-4B1C-B759-1BE952940623}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0F9215D6-DE44-4060-8D24-84D149B9ED7D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0F9215D6-DE44-4060-8D24-84D149B9ED7D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0F9215D6-DE44-4060-8D24-84D149B9ED7D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0F9215D6-DE44-4060-8D24-84D149B9ED7D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C5A191C3-FA98-435A-9A0C-CA94C1BBDEEF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C5A191C3-FA98-435A-9A0C-CA94C1BBDEEF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C5A191C3-FA98-435A-9A0C-CA94C1BBDEEF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C5A191C3-FA98-435A-9A0C-CA94C1BBDEEF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3E4F5081-0FC9-4B1C-B759-1BE952940623}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3E4F5081-0FC9-4B1C-B759-1BE952940623}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3E4F5081-0FC9-4B1C-B759-1BE952940623}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3E4F5081-0FC9-4B1C-B759-1BE952940623}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{0F9215D6-DE44-4060-8D24-84D149B9ED7D} = {58EC5D03-26E6-427E-BD8B-12C1C254E9A6}
+		{C5A191C3-FA98-435A-9A0C-CA94C1BBDEEF} = {58EC5D03-26E6-427E-BD8B-12C1C254E9A6}
+		{3E4F5081-0FC9-4B1C-B759-1BE952940623} = {58EC5D03-26E6-427E-BD8B-12C1C254E9A6}
+	EndGlobalSection
+EndGlobal
